@@ -4,7 +4,7 @@ Eugene Gusev -- GusGene 🥳<br>
 I'm a Tomsk based Software Developer who has worked with a number of languages (including C#, Java, Python) and environments.<br>
 
 🔨 I’m currently working with: C#, Microservices, Kafka, PostgreSQL<br>
-🌱 I’m currently learning: Microservice interaction, and Protocols<br>
+🌱 I’m currently learning: Microservice interaction and protocols<br>
 💬 Ask me about: Classes in C#<br>
 📫 How to reach me: https://t.me/GusGene<br>
 
