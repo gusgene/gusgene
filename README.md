@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**gusgene/gusgene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eugene Gusev -- GusGene 🥳
+I'm a Tomsk based Software Developer who has worked with a number of languages (including C#, Java, Python) and environments.
 
-Here are some ideas to get you started:
+🔨 I’m currently working with: C#, Microservices, Kafka, PostgreSQL
+🌱 I’m currently learning: Microservice interaction, and Kubernetes
+💬 Ask me about: Types in Python
+📫 How to reach me: https://t.me/GusGene
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Things I Love ❤️
+Learning new things, as well as improving my level of expertise
+Deleting code
+Refactoring
+Architecture
+Walking
+Spend time with your family
+
+Some Things I've Made 🔧
+Participated in the reanimation of an old Java mobile application for the company =)
+Taught children robotics and programming
+
+Lots of silly mistakes
